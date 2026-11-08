@@ -1,0 +1,27 @@
+{
+  "fox": {
+    "language": "en",
+    "instruction": "Clear, neutral voice for phonetic practice, even tempo and precise articulation in standard American English, emphasizing clarity of each word.",
+    "text": "The quick brown fox jumps over the lazy dog."
+  },
+  "tavern": {
+    "language": "en",
+    "instruction": "Hearty, jovial tavern owner's voice, loud and welcoming with a slightly gruff, friendly tone in American English, radiating warmth and hospitality.",
+    "text": "Hey there, stranger! What brings you to our humble town? Looking for a good drink or a tall tale?"
+  },
+  "cold": {
+    "language": "en",
+    "instruction": "An elderly female voice, slightly nasal and soft, speaking in a frail, polite British tone, conveying subtle discomfort with gentle hesitation.",
+    "text": "Achoo! Oh dear, I do believe I'm catching a cold. This dreadful weather is just too much."
+  },
+  "long": {
+    "language": "en",
+    "instruction": "A calm, warm middle-aged male narrator with a deep voice, reading an audiobook at a steady, unhurried pace in standard American English.",
+    "text": "The old lighthouse had stood on the cliff for more than a hundred years. Every night its beam swept across the dark water, guiding fishing boats safely back to the harbor. The keeper, a quiet man named Thomas, climbed the spiral stairs at sunset, polished the great glass lens, and lit the lamp. In the long winter months, storms would rattle the windows and the sea would roar against the rocks below, but the light never failed. People in the village said that as long as Thomas was there, no ship would ever be lost."
+  },
+  "zh_old": {
+    "language": "zh",
+    "instruction": "疲惫沙哑的老年声音缓慢抱怨，带有轻微呻吟。",
+    "text": "哎呀，我的老腰啊，这年纪大了就是不行了。"
+  }
+}

@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Exported graphs, tables and XNNPACK weight caches (~40 GB; rebuild with export_lm.py / export_codec.py)
+models/
+*.tflite
+*.xnnpack_cache
+
+# Generated audio, PyTorch references (ref_torch.py) and run logs
+out/
+logs/
+
+# Editors / OS
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+.DS_Store
